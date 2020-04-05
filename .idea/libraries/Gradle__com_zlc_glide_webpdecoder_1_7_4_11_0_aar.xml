@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.zlc.glide:webpdecoder:1.7.4.11.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b9fd36300a2900c7ba95ff271b69f66f/webpdecoder-1.7.4.11.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b9fd36300a2900c7ba95ff271b69f66f/webpdecoder-1.7.4.11.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zlc.glide/webpdecoder/1.7.4.11.0/b2dff68fb2f450801b1d456005be299daa13db60/webpdecoder-1.7.4.11.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zlc.glide/webpdecoder/1.7.4.11.0/5019767aebd99cd855c05f7e0835f57c04ba5e47/webpdecoder-1.7.4.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

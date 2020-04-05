@@ -61,7 +61,7 @@
             android:layout_alignEnd="@id/title"
             android:layout_alignRight="@id/title"
             android:gravity="center"
-            android:visibility="visible">
+            android:visibility="gone">
 
             <ImageView
                 android:layout_width="@dimen/dp_30"

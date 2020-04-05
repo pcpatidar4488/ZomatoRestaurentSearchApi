@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".activity.MainActivity">
+    tools:context="com.example.restaurant.activity.MainActivity">
 
     <LinearLayout
         android:id="@+id/layoutHeader"
@@ -95,8 +95,8 @@
             <ImageView
                 android:visibility="gone"
                 android:id="@+id/iconClose"
-                android:layout_width="@dimen/dp_20"
-                android:layout_height="@dimen/dp_20"
+                android:layout_width="@dimen/dp_18"
+                android:layout_height="@dimen/dp_18"
                 android:layout_gravity="center"
                 android:layout_marginRight="@dimen/dp_5"
                 android:padding="@dimen/dp_2"
